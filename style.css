@@ -1,0 +1,40 @@
+#hisoka{
+   /* margin-bottom:100px; */
+   margin-left: 300px;
+   margin-right: 100px;
+   height: 300px;
+   width:40%
+   /* size: 30%; */
+}
+#lol{
+    margin-left: 300px;
+}
+.buttons{
+    margin-top: 20px;
+}
+#resetbro{
+    background-color: maroon;
+    color: beige;
+}
+#player1{
+    
+    background-color: teal;
+    color: beige;
+
+}
+#player2{
+    background-color:steelblue;
+    color: beige;
+
+}
+h4{
+    margin-top: 20px;
+    display: inline;
+    
+}
+h1{
+ 
+    
+    display: inline;
+   
+}
